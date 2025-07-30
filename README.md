@@ -43,4 +43,7 @@ The data used for this analysis was sourced from Kaggle. The dataset includes th
 - Sales Method
 
 ## Technical Report
--[View comprehensive technical report]
+-[View comprehensive technical report](https://medium.com/@igbelowowatosin/introduction-bf02cf487b8a)
+
+## Contact Me
+If you found this helpful or want to collaborate, feel free to connect: [Connect With Me](www.linkedin.com/in/oluwatosin-agbaje)
